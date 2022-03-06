@@ -12,3 +12,5 @@ search_texts="OnMoUsEoVeR=prompt(777)//
  ```
  
  
+![gen-xss](https://user-images.githubusercontent.com/100707395/156908682-6b57fe64-dd72-4e9d-8f83-06af132c04e0.gif)
+![gen-xss-2](https://user-images.githubusercontent.com/100707395/156908685-c8e87ca3-3551-4921-bdcb-c7ac57619e1e.gif)
